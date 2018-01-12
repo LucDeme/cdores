@@ -1,0 +1,43 @@
+
+
+.tblstage {
+  font-weight: bold;  /*police en gras */
+  width:400px;        /*taille police */
+  margin-left: auto;
+  margin-right: auto;
+}
+.tblstage th, .tblstage td {
+border-bottom: 1px solid #ddd;
+padding-top: 10px;
+}
+
+.tblentreprise {
+  width:400px;
+  margin-left: auto;
+  margin-right: auto;
+}
+.tblentreprise th, .tblentreprise td {
+border-bottom: 1px solid #ddd;
+padding-top: 10px;
+}
+
+.tblcontact {
+  width:1000px;
+  margin-left: auto;
+  margin-right: auto;
+}
+.tblcontact th, .tblcontact td {
+border-bottom: 1px solid #ddd;
+padding-top: 10px;
+}
+
+.tblstages {
+  font-weight: bold;  /*police en gras */
+  width:1400px;        /*taille police */
+  margin-left: auto;
+  margin-right: auto;
+}
+.tblstages th, .tblstage td {
+border-bottom: 1px solid #ddd;
+padding-top: 10px;
+}
